@@ -15,8 +15,8 @@ const Hero = () => {
                 I specialize in building modern, responsive, and high-performance websites. Let's create something amazing together!
             </p>
             <div className='mt-3 space-x-10'>
-                <button className='bg-gradient-to-r from-green-400 to-blue-500 thext-white md:inline transform fransition-transform duration-400 hover:scale-110 px-5 py-2 rounded-3xl size-40 h-10'>Contact Me</button>
-                <button className='bg-gradient-to-r from-green-400 to-blue-500 thext-white md:inline transform fransition-transform duration-400 hover:scale-110 px-5 py-2 rounded-3xl size-40 h-10'>Resume</button>
+                <button className='bg-gradient-to-r from-green-400 to-blue-500 thext-white md:inline transform fransition-transform duration-400 hover:scale-125 px-5 py-2 rounded-3xl w-32 h-10'>Contact Me</button>
+                <button className='bg-gradient-to-r from-green-400 to-blue-500 thext-white md:inline transform fransition-transform duration-400 hover:scale-125 px-5 py-2 rounded-3xl size-32 h-10'>Resume</button>
             </div>
         </div>
      );
