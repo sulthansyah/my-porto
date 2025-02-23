@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/my-porto/",
-  plugins: [react()],
+  base: "/my-porto/", // Ganti 'my-porto' dengan nama repository GitHub-mu
+  plugins: [react(), tailwindcss()],
 });
