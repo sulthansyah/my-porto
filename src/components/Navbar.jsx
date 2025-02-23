@@ -19,16 +19,22 @@ const Navbar = () => {
             Home
           </a>
           <a
-            href="#projects"
-            className="hover:text-gray-400 transition-colors duration-300"
-          >
-            Projects
-          </a>
-          <a
             href="#about"
             className="hover:text-gray-400 transition-colors duration-300"
           >
             About Me
+          </a>
+          <a
+            href="#services"
+            className="hover:text-gray-400 transition-colors duration-300"
+          >
+            Services
+          </a>
+          <a
+            href="#projects"
+            className="hover:text-gray-400 transition-colors duration-300"
+          >
+            Projects
           </a>
           <a
             href="#contact"
